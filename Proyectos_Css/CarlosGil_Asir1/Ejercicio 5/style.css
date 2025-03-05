@@ -10,7 +10,7 @@ Ejercicio: Ejercicio 5
     display: grid;                          
     grid-template-columns: repeat(3, 1fr);  
     grid-template-rows: 100px 200px;   
-    margin-right: 10px;
+    grid: 10px;
 }    
 .grid-item {
     height: 100%;
