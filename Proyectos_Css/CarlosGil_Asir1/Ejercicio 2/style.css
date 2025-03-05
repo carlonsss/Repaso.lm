@@ -1,0 +1,24 @@
+/* 
+Nombre: Carlos Gil 
+Curso: Asir 1  
+Fecha: 05/03/2025  
+Ejercicio: Ejercicio 2
+*/
+
+/* Cambiar el color del texto destacado a rojo */
+.destacado {
+    color: red;
+}
+
+/* Cambiar el color del texto del párrafo dentro del id "caja" a verde */
+#caja p {
+    color: green;
+}
+/* Establecer el tamaño de fuente de todos los h1 a 30px */
+h1 {
+    font-size: 30px;
+}
+/* Aplicar un fondo gris a todos los elementos p dentro de div */
+#caja p {
+    background-color: gray;
+}
