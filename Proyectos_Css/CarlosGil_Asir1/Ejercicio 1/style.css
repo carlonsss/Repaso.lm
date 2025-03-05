@@ -1,0 +1,18 @@
+/* Aplica un color de fondo  */
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;/* Cambia la fuente del documento */
+}
+/* Cambia el color del texto a azul */
+p {
+    color: blue;
+}
+
+/* margen de 20px a los elementos <h1> */
+h1 {
+    margin: 20px;
+}
+/* borde de 2px sólido negro a todos los <div> */
+div {
+    border: 2px solid black;
+}
