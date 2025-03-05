@@ -1,0 +1,29 @@
+/* 
+Nombre: Carlos Gil 
+Curso: Asir 1  
+Fecha: 05/03/2025  
+Ejercicio: Ejercicio 4
+*/
+
+/* Estilo para el contenedor */
+.contenedor {
+    display: flex;                
+    justify-content: space-around; 
+}  
+/* Estilo para los elementos hijos */
+.elemento {
+    width: 100px;         
+    height: 100px;
+}
+    
+#uno {
+    background-color: red;
+}
+
+#dos {
+    background-color: green;
+}
+
+#tres {
+    background-color: blue;
+}

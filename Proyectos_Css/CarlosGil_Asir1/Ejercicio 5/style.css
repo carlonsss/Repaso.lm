@@ -1,0 +1,40 @@
+/* 
+Nombre: Carlos Gil 
+Curso: Asir 1  
+Fecha: 05/03/2025  
+Ejercicio: Ejercicio 5
+*/
+
+/* Estilo para el contenedor grid */
+.grid-container {
+    display: grid;                          
+    grid-template-columns: repeat(3, 1fr);  
+    grid-template-rows: 100px 200px;   
+    margin-right: 10px;
+}    
+.grid-item {
+    height: 100%;
+}/* Fondos diferentes para cada celda */
+#uno {
+    background-color: red;
+}
+
+#dos {
+    background-color: green;
+}
+
+#tres {
+    background-color: blue;
+}
+
+#cuatro {
+    background-color: yellow;
+}
+
+#cinco {
+    background-color: orange;
+}
+
+#seis {
+    background-color: purple;
+}
